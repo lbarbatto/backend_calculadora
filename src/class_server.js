@@ -1,4 +1,4 @@
-const Calculadora = require('./class_calculadora')
+const Calculadora = require('./rep/class_calculadora')
 let soma = new Calculadora();
 const express = require('express');
 const app = express();

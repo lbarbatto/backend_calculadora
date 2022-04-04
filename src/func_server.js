@@ -1,4 +1,4 @@
-const Calculadora = require('./func_calculadora')
+const Calculadora = require('./rep/func_calculadora')
 const express = require('express');
 const app = express();
 const port = 3000;
